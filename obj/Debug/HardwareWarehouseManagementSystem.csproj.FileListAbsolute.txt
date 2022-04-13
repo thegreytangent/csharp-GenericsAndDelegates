@@ -1,0 +1,12 @@
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.csproj.AssemblyReference.cache
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\HardwareWarehouseManagementSystem.exe.config
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\HardwareWarehouseManagementSystem.exe
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\HardwareWarehouseManagementSystem.pdb
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\WareHouseManagementSystemAPI.exe
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\WareHouseManagementSystemAPI.pdb
+D:\Desktop\c#\HardwareWarehouseManagementSystem\bin\Debug\WareHouseManagementSystemAPI.exe.config
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.csproj.CopyComplete
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.exe
+D:\Desktop\c#\HardwareWarehouseManagementSystem\obj\Debug\HardwareWarehouseManagementSystem.pdb
